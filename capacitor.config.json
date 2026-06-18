@@ -1,0 +1,9 @@
+{
+  "appId": "com.amr.guessimposter",
+  "appName": "1Vs1 Guess Imposter",
+  "webDir": "www",
+  "server": {
+    "url": "https://amr-game-2026.web.app",
+    "cleartext": true
+  }
+}
