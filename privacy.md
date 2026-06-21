@@ -1,0 +1,2 @@
+لا يقوم هذا التطبيق بجمع أو تخزين أي بيانات شخصية للمستخدمين. نحن نستخدم Firebase فقط لتشغيل ميزات اللعب، مثل الاتصال المباشر بين اللاعبين. لا تتم مشاركة أي معلومات خاصة بالمستخدم مع أي أطراف خارجية.
+This application does not collect or store any personal user data. We use Firebase only for game mechanics, such as real-time multiplayer connectivity. No user information is shared with third parties.
